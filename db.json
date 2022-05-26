@@ -1,104 +1,90 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Gatsby Tutorial",
       "body":  "I'm baby humblebrag neutra taiyaki af vice bespoke locavore fanny pack ramps vexillologist succulents. Normcore etsy pour-over adaptogen skateboard fashion axe, bushwick food truck beard lumbersexual master cleanse actually deep v. Retro cardigan raw denim franzen kickstarter you probably haven't heard of them literally aesthetic snackwave four dollar toast. Keffiyeh synth umami, helvetica yr flexitarian jean shorts banh mi cardigan leggings letterpress paleo intelligentsia narwhal. I'm baby humblebrag neutra taiyaki af vice bespoke locavore fanny pack ramps vexillologist succulents. Normcore etsy pour-over adaptogen skateboard fashion axe, bushwick food truck beard lumbersexual master cleanse actually deep v. Retro cardigan raw denim franzen kickstarter you probably haven't heard of them literally aesthetic snackwave four dollar toast. Keffiyeh synth umami, helvetica yr flexitarian jean shorts banh mi cardigan leggings letterpress paleo intelligentsia narwhal.",
       "author":  "John Doe",
       "category": "technology",
       "imgUrl":  "https://images.unsplash.com/photo-1610986602726-19f650133f7a?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=903",
       "date": "2021-01-16T18:02:47.215Z",
-    "comments" : [ 
-        {
-            "id" :  1,
-            "username" : "said fizba",
-            "email" : "sa_fizba@hotmail.com",
-            "body" : "great article, keep it going",
-            "date" : "2021-01-16T18:02:47.215Z",
-        },
-        {
-            "id" :  2,
-            "username" : "ali fizba",
-            "email" : "ali_fizba@gmail.com",
-            "body" : "great article, keep it going",
-            "date" : "2021-01-16T18:10:08.884Z",
-        }
-    ]
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Smart Fashion",
       "body":  "I'm baby humblebrag neutra taiyaki af vice bespoke locavore fanny pack ramps vexillologist succulents. Normcore etsy pour-over adaptogen skateboard fashion axe, bushwick food truck beard lumbersexual master cleanse actually deep v. Retro cardigan raw denim franzen kickstarter you probably haven't heard of them literally aesthetic snackwave four dollar toast. Keffiyeh synth umami, helvetica yr flexitarian jean shorts banh mi cardigan leggings letterpress paleo intelligentsia narwhal. I'm baby humblebrag neutra taiyaki af vice bespoke locavore fanny pack ramps vexillologist succulents. Normcore etsy pour-over adaptogen skateboard fashion axe, bushwick food truck beard lumbersexual master cleanse actually deep v. Retro cardigan raw denim franzen kickstarter you probably haven't heard of them literally aesthetic snackwave four dollar toast. Keffiyeh synth umami, helvetica yr flexitarian jean shorts banh mi cardigan leggings letterpress paleo intelligentsia narwhal.",
       "author":  "John Doe",
       "category": "Fashion",
       "imgUrl":  "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
       "date": "2021-01-16T18:10:08.884Z",
-    "comments" : [ 
-        {
-            "id" :  1,
-            "username" : "said fizba",
-            "email" : "sa_fizba@hotmail.com",
-            "body" : "great article, keep it going",
-            "date" : "2021-01-16T18:02:47.215Z",
-        },
-        {
-            "id" :  2,
-            "username" : "ali fizba",
-            "email" : "ali_fizba@gmail.com",
-            "body" : "great article, keep it going",
-            "date" : "2021-01-16T18:10:08.884Z",
-        }
-    ]
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "React Tutorial",
       "body":  "I'm baby humblebrag neutra taiyaki af vice bespoke locavore fanny pack ramps vexillologist succulents. Normcore etsy pour-over adaptogen skateboard fashion axe, bushwick food truck beard lumbersexual master cleanse actually deep v. Retro cardigan raw denim franzen kickstarter you probably haven't heard of them literally aesthetic snackwave four dollar toast. Keffiyeh synth umami, helvetica yr flexitarian jean shorts banh mi cardigan leggings letterpress paleo intelligentsia narwhal. I'm baby humblebrag neutra taiyaki af vice bespoke locavore fanny pack ramps vexillologist succulents. Normcore etsy pour-over adaptogen skateboard fashion axe, bushwick food truck beard lumbersexual master cleanse actually deep v. Retro cardigan raw denim franzen kickstarter you probably haven't heard of them literally aesthetic snackwave four dollar toast. Keffiyeh synth umami, helvetica yr flexitarian jean shorts banh mi cardigan leggings letterpress paleo intelligentsia narwhal.",
       "author":  "John Doe",
       "category": "technology",
       "imgUrl":  "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
       "date": "2021-01-16T18:02:47.215Z",
-    "comments" : [ 
-        {
-            "id" :  1,
-            "username" : "said fizba",
-            "email" : "sa_fizba@hotmail.com",
-            "body" : "great article, keep it going",
-            "date" : "2021-01-16T18:02:47.215Z",
-        },
-        {
-            "id" :  2,
-            "username" : "ali fizba",
-            "email" : "ali_fizba@gmail.com",
-            "body" : "great article, keep it going",
-            "date" : "2021-01-16T18:10:08.884Z",
-        }
-    ]
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Healthy Food",
       "body":  "I'm baby humblebrag neutra taiyaki af vice bespoke locavore fanny pack ramps vexillologist succulents. Normcore etsy pour-over adaptogen skateboard fashion axe, bushwick food truck beard lumbersexual master cleanse actually deep v. Retro cardigan raw denim franzen kickstarter you probably haven't heard of them literally aesthetic snackwave four dollar toast. Keffiyeh synth umami, helvetica yr flexitarian jean shorts banh mi cardigan leggings letterpress paleo intelligentsia narwhal. I'm baby humblebrag neutra taiyaki af vice bespoke locavore fanny pack ramps vexillologist succulents. Normcore etsy pour-over adaptogen skateboard fashion axe, bushwick food truck beard lumbersexual master cleanse actually deep v. Retro cardigan raw denim franzen kickstarter you probably haven't heard of them literally aesthetic snackwave four dollar toast. Keffiyeh synth umami, helvetica yr flexitarian jean shorts banh mi cardigan leggings letterpress paleo intelligentsia narwhal.",
       "author":  "John Doe",
       "category": "Food",
       "imgUrl":  "https://images.unsplash.com/photo-1498837167922-ddd27525d352?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
       "date": "2021-01-16T18:10:08.884Z",
-    "comments" : [ 
+    }
+  ],
+  "comments" : [ 
         {
-            "id" :  1,
+            "id" :  "1",
+            "post_id": "1",
             "username" : "said fizba",
             "email" : "sa_fizba@hotmail.com",
             "body" : "great article, keep it going",
             "date" : "2021-01-16T18:02:47.215Z",
         },
         {
-            "id" :  2,
+            "id" :  "2",
+            "post_id": "1",
             "username" : "ali fizba",
             "email" : "ali_fizba@gmail.com",
             "body" : "great article, keep it going",
             "date" : "2021-01-16T18:10:08.884Z",
-        }
-    ]
-    }
-  ]
+        },
+    {
+  "date": "2022-05-26T12:31:43.093Z",
+  "username": "Angelica Goyette",
+  "email": "Asha68@hotmail.com",
+  "body": "Et aut ipsum ut adipisci ut iste recusandae cum.",
+  "id": "1",
+  "post_id": "1"
+ },
+ {
+  "date": "2022-05-26T05:07:49.672Z",
+  "username": "Laurence Considine",
+  "email": "Murl90@hotmail.com",
+  "body": "Dolorum ipsam unde.",
+  "id": "2",
+  "post_id": "2"
+ },
+ {
+  "date": "2022-05-26T08:37:17.299Z",
+  "username": "Clifton Krajcik",
+  "email": "Eloisa.Reynolds66@yahoo.com",
+  "body": "Reiciendis sunt quae perferendis atque voluptatem excepturi consequatur.",
+  "id": "3",
+  "post_id": "3"
+ },
+ {
+  "date": "2022-05-26T20:25:14.695Z",
+  "username": "Nichole Romaguera",
+  "email": "Juvenal.Turner@yahoo.com",
+  "body": "Amet quidem et cum.",
+  "id": "4",
+  "post_id": "4"
+ }
+      ]
 }
